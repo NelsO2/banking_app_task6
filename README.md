@@ -1,5 +1,5 @@
 # banking_app_task6 
-This is a learning task to using OOP, to implement a banking application that meets the following user requirements:
+This is a learning task using OOP Python, to implement a banking application that meets the following user requirements:
 User can sign up / Register,
 User can log in,
 User can deposit funds,
